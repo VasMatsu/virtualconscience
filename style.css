@@ -1,0 +1,12 @@
+h5 p {
+font-family: monospace;
+}
+.fontRandom {
+font-size: x-large;
+}
+body {
+background-image: url(raver-danger.jpg);
+height: 100vh;
+background-position: center;
+background-size: 200%;
+}
